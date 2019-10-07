@@ -1,0 +1,1 @@
+gcc substitutioncrack.c -o substitutioncrack

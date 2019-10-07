@@ -1,0 +1,1 @@
+gcc playfaircrack.c -o playfaircrack
